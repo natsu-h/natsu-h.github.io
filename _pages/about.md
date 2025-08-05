@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://mathematics.brown.edu/'>Brown University</a>. email: natsuka \[underline\] hayashida \[at\] brown \[dot\] edu
 
 profile:
   align: right
@@ -29,8 +29,6 @@ latest_posts:
 
 Welcome to my page! Feel free to peruse the site for various insight into my endeavors in mathematics or photos of my dog :)
 I'm currently an undergraduate at Brown University studying mathematics with a broad range of interests in topology, metric geometry, and algebraic combinatorics. Outside of standing in front of blackboard covered in chalk, I love to read books, play the piano, watch various action/thriller TV shows, and explore new restaurants in Providence and Boston.
-
-email: natsuka [underline] hayashida [at] brown [dot] edu
 
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
