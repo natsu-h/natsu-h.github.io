@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://mathematics.brown.edu/'>Brown University</a>. email: natsuka \[underline\] hayashida \[at\] brown \[dot\] edu
+subtitle: <a href='https://mathematics.brown.edu/'>Brown University</a>.
 
 profile:
   align: right
