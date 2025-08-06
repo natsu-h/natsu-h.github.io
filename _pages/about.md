@@ -21,4 +21,4 @@ Welcome to my page! Feel free to peruse the site for various insight into my end
 
 I'm currently an undergraduate at Brown University studying mathematics with a broad range of interests in topology, metric geometry, and algebraic combinatorics. Outside of standing in front of blackboard covered in chalk, I love to read books, play the piano, watch various action/thriller TV shows, and explore new restaurants in Providence and Boston.
 
-email: natsuka [underline] hayashida [at] brown.edu
+email: natsuka [underline] hayashida [at] brown [dot] edu
